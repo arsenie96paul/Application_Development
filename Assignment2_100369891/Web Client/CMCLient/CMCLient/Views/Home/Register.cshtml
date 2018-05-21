@@ -1,0 +1,52 @@
+﻿
+@{
+    ViewBag.Title = "Register";
+}
+
+<h2>Register here! </h2>
+    &nbsp;
+<div class="form-group">
+    <label for="username" class="col-md-3 control-label">User Name</label>
+    <div class="col-md-9">
+        <input type="text" class="form-control" id="username">
+    </div>
+</div>
+    &nbsp;
+<div class="form-group">
+    <label for="email" class="col-md-3 control-label">Email</label>
+    <div class="col-md-9">
+        <input type="text" class="form-control" id="email">
+    </div>
+</div>
+    &nbsp;
+<div class="form-group">
+    <label for="cemail" class="col-md-3 control-label">Confirm Email</label>
+    <div class="col-md-9">
+        <input type="text" class="form-control" id="cemail">
+    </div>
+</div>
+    &nbsp;
+<div class="form-group">
+    <label for="password" class="col-md-3 control-label">Password</label>
+    <div class="col-md-9">
+        <input type="password" class="form-control" id="password" size="4">
+    </div>
+</div>
+    &nbsp;
+<div class="form-group">
+    <label for="cpassword" class="col-md-3 control-label">Confirm Password</label>
+    <div class="col-md-9">
+        <input type="password" class="form-control" id="cpassword" size="4">
+    </div>
+</div>
+        &nbsp;
+        &nbsp;
+<div>
+    <input type="button" value="Register" class="btn btn-sm btn-primary" onclick="AddUser()" />
+</div>
+
+
+<div id="newuser" class="row">
+</div>
+
+<script src="/Scripts/webservice.js"></script>

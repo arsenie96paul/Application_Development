@@ -1,0 +1,24 @@
+﻿<Window x:Class="WindowsClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WindowsClient"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="628.2">
+    <Grid RenderTransformOrigin="0.533,0.434" Margin="0,0,-6.4,0.4" HorizontalAlignment="Left" Width="628">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="4*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="displayEventsButton" Content="Display Events" HorizontalAlignment="Left" Margin="438,81.4,0,0" VerticalAlignment="Top" Width="149" RenderTransformOrigin="0.489,0.608" Height="42" Click="button_Click" Grid.Row="1"/>
+        <DataGrid x:Name="TableGrid" HorizontalAlignment="Left" Margin="10,21,0,0" VerticalAlignment="Top" Height="160" Width="577" SelectionChanged="dataGrid_SelectionChanged" Grid.RowSpan="2">
+        </DataGrid>
+        <Grid HorizontalAlignment="Left" Height="100" Margin="83,56,0,0" VerticalAlignment="Top" Width="100" Grid.RowSpan="2"/>
+
+    </Grid>
+</Window>

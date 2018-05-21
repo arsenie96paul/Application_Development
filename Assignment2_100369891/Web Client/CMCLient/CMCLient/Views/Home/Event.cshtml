@@ -1,0 +1,58 @@
+﻿
+@{
+    ViewBag.Title = "Event Form";
+}
+
+@section scripts{
+    <script type="text/javascript">
+         $(function () {
+             $('#eventday').datetimepicker();
+         });
+    </script>
+}
+
+<div class="col-md-12">
+
+    &nbsp;
+    &nbsp;
+
+    <form class="form-horizontal" role="form">
+
+        <div class="form-group">
+            <label for="eventtitle" class="col-md-3 control-label">Event Title</label>
+            <div class="col-md-9">
+                <input type="text" class="form-control" id="eventtitle">
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="eventday" class="col-md-3 control-label">Day</label>
+            <div class="col-md-9">
+                <input type="text" class="form-control" id="eventday" size="4">
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="eventtime" class="col-md-3 control-label">Location</label>
+            <div class="col-md-9">
+                <input type="text" class="form-control" id="eventtime">
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="eventdesc" class="col-md-3 control-label">Description</label>
+            <div class="col-md-9">
+                <input type="text" class="form-control" id="eventdesc">
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-3 col-md-9">
+                <input type="button" value="Add Event" class="btn btn-sm btn-primary" onclick="addEvent();" />
+            </div>
+        </div>
+
+    </form>
+
+    <div id="newevent" class="row">
+    </div>
+
+</div>
+
+<script src="/Scripts/webservice.js"></script>

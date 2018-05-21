@@ -1,0 +1,221 @@
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\roslyn\csc.exe
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\roslyn\Microsoft.CSharp.Core.targets
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\roslyn\System.Collections.Immutable.dll
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\roslyn\System.Reflection.Metadata.dll
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\roslyn\vbc.exe
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\roslyn\VBCSCompiler.exe
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\roslyn\VBCSCompiler.exe.config
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\CManager.dll.config
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\CManager.dll
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\CManager.pdb
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\Antlr3.Runtime.dll
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\EntityFramework.dll
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\EntityFramework.SqlServer.dll
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\Microsoft.Web.Infrastructure.dll
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\Newtonsoft.Json.dll
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\System.Net.Http.Formatting.dll
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\System.Web.Cors.dll
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\System.Web.Helpers.dll
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\System.Web.Http.Cors.dll
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\System.Web.Http.dll
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\System.Web.Http.WebHost.dll
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\System.Web.Mvc.dll
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\System.Web.Optimization.dll
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\System.Web.Razor.dll
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\System.Web.WebPages.Deployment.dll
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\System.Web.WebPages.dll
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\System.Web.WebPages.Razor.dll
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\WebGrease.dll
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\EntityFramework.xml
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\EntityFramework.SqlServer.xml
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\System.Web.Http.Cors.xml
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\Newtonsoft.Json.xml
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\System.Net.Http.Formatting.xml
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\System.Web.Helpers.xml
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\System.Web.Http.xml
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\System.Web.Http.WebHost.xml
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\System.Web.Mvc.xml
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\System.Web.Optimization.xml
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\System.Web.Razor.xml
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\System.Web.WebPages.xml
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\System.Web.WebPages.Deployment.xml
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\System.Web.WebPages.Razor.xml
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\bin\Antlr3.Runtime.pdb
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\obj\Debug\CManager.dll
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\obj\Debug\CManager.pdb
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\obj\Debug\CManager.Migrations.InitialCreate.resources
+\\ctstudent2\studentusers\100369891\Desktop\CManager\CManager\obj\Debug\CManager.csproj.GenerateResource.Cache
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\roslyn\csc.exe
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\roslyn\Microsoft.CSharp.Core.targets
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\roslyn\System.Collections.Immutable.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\roslyn\System.Reflection.Metadata.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\roslyn\vbc.exe
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\roslyn\VBCSCompiler.exe
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\roslyn\VBCSCompiler.exe.config
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\CManager.dll.config
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\CManager.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\CManager.pdb
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\Antlr3.Runtime.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\EntityFramework.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\EntityFramework.SqlServer.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\Microsoft.Web.Infrastructure.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\Newtonsoft.Json.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\System.Net.Http.Formatting.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\System.Web.Cors.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\System.Web.Helpers.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\System.Web.Http.Cors.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\System.Web.Http.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\System.Web.Http.WebHost.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\System.Web.Mvc.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\System.Web.Optimization.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\System.Web.Razor.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\System.Web.WebPages.Deployment.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\System.Web.WebPages.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\System.Web.WebPages.Razor.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\WebGrease.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\EntityFramework.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\EntityFramework.SqlServer.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\System.Web.Http.Cors.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\Newtonsoft.Json.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\System.Net.Http.Formatting.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\System.Web.Helpers.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\System.Web.Http.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\System.Web.Http.WebHost.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\System.Web.Mvc.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\System.Web.Optimization.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\System.Web.Razor.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\System.Web.WebPages.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\System.Web.WebPages.Deployment.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\System.Web.WebPages.Razor.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\bin\Antlr3.Runtime.pdb
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\obj\Debug\CManager.csprojResolveAssemblyReference.cache
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\obj\Debug\CManager.Migrations.InitialCreate.resources
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\obj\Debug\CManager.csproj.GenerateResource.Cache
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\obj\Debug\CManager.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CManager\CManager\obj\Debug\CManager.pdb
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\roslyn\csc.exe
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\roslyn\Microsoft.CSharp.Core.targets
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\roslyn\System.Collections.Immutable.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\roslyn\System.Reflection.Metadata.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\roslyn\vbc.exe
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\roslyn\VBCSCompiler.exe
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\roslyn\VBCSCompiler.exe.config
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\CManager.dll.config
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\CManager.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\CManager.pdb
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\Antlr3.Runtime.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\EntityFramework.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\EntityFramework.SqlServer.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\Microsoft.Web.Infrastructure.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\Newtonsoft.Json.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\System.Net.Http.Formatting.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\System.Web.Cors.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\System.Web.Helpers.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\System.Web.Http.Cors.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\System.Web.Http.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\System.Web.Http.WebHost.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\System.Web.Mvc.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\System.Web.Optimization.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\System.Web.Razor.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\System.Web.WebPages.Deployment.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\System.Web.WebPages.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\System.Web.WebPages.Razor.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\WebGrease.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\EntityFramework.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\EntityFramework.SqlServer.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\System.Web.Http.Cors.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\Newtonsoft.Json.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\System.Net.Http.Formatting.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\System.Web.Helpers.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\System.Web.Http.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\System.Web.Http.WebHost.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\System.Web.Mvc.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\System.Web.Optimization.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\System.Web.Razor.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\System.Web.WebPages.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\System.Web.WebPages.Deployment.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\System.Web.WebPages.Razor.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\bin\Antlr3.Runtime.pdb
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\obj\Debug\CManager.csprojResolveAssemblyReference.cache
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\obj\Debug\CManager.Migrations.InitialCreate.resources
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\obj\Debug\CManager.csproj.GenerateResource.Cache
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\obj\Debug\CManager.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\obj\Debug\CManager.pdb
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CManager\CManager\obj\Debug\CManager.Migrations.start.resources
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\roslyn\csc.exe
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\roslyn\Microsoft.CSharp.Core.targets
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\roslyn\System.Collections.Immutable.dll
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\roslyn\System.Reflection.Metadata.dll
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\roslyn\vbc.exe
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\roslyn\VBCSCompiler.exe
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\roslyn\VBCSCompiler.exe.config
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\CManager.dll.config
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\CManager.dll
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\CManager.pdb
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\Antlr3.Runtime.dll
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\EntityFramework.dll
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\EntityFramework.SqlServer.dll
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\Microsoft.Web.Infrastructure.dll
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\Newtonsoft.Json.dll
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\System.Net.Http.Formatting.dll
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\System.Web.Cors.dll
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\System.Web.Helpers.dll
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\System.Web.Http.Cors.dll
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\System.Web.Http.dll
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\System.Web.Http.WebHost.dll
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\System.Web.Mvc.dll
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\System.Web.Optimization.dll
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\System.Web.Razor.dll
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\System.Web.WebPages.Deployment.dll
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\System.Web.WebPages.dll
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\System.Web.WebPages.Razor.dll
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\WebGrease.dll
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\EntityFramework.xml
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\EntityFramework.SqlServer.xml
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\System.Web.Http.Cors.xml
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\Newtonsoft.Json.xml
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\System.Net.Http.Formatting.xml
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\System.Web.Helpers.xml
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\System.Web.Http.xml
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\System.Web.Http.WebHost.xml
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\System.Web.Mvc.xml
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\System.Web.Optimization.xml
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\System.Web.Razor.xml
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\System.Web.WebPages.xml
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\System.Web.WebPages.Deployment.xml
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\System.Web.WebPages.Razor.xml
+K:\100369891_Assignment2\Web Service CManager\CManager\bin\Antlr3.Runtime.pdb
+K:\100369891_Assignment2\Web Service CManager\CManager\obj\Debug\CManager.csprojResolveAssemblyReference.cache
+K:\100369891_Assignment2\Web Service CManager\CManager\obj\Debug\CManager.Migrations.InitialCreate.resources
+K:\100369891_Assignment2\Web Service CManager\CManager\obj\Debug\CManager.Migrations.start.resources
+K:\100369891_Assignment2\Web Service CManager\CManager\obj\Debug\CManager.csproj.GenerateResource.Cache
+K:\100369891_Assignment2\Web Service CManager\CManager\obj\Debug\CManager.dll
+K:\100369891_Assignment2\Web Service CManager\CManager\obj\Debug\CManager.pdb

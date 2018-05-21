@@ -1,0 +1,294 @@
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\roslyn\csc.exe
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\roslyn\Microsoft.CSharp.Core.targets
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\roslyn\System.Collections.Immutable.dll
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\roslyn\System.Reflection.Metadata.dll
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\roslyn\vbc.exe
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\roslyn\VBCSCompiler.exe
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\roslyn\VBCSCompiler.exe.config
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\CMCLient.dll.config
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\CMCLient.dll
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\CMCLient.pdb
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\Antlr3.Runtime.dll
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\Microsoft.Web.Infrastructure.dll
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\Newtonsoft.Json.dll
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\System.Net.Http.Formatting.dll
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\System.Web.Cors.dll
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\System.Web.Helpers.dll
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\System.Web.Http.Cors.dll
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\System.Web.Http.dll
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\System.Web.Http.WebHost.dll
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\System.Web.Mvc.dll
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\System.Web.Optimization.dll
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\System.Web.Razor.dll
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\System.Web.WebPages.Deployment.dll
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\System.Web.WebPages.dll
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\System.Web.WebPages.Razor.dll
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\WebGrease.dll
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\System.Web.Http.Cors.xml
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\System.Web.Helpers.xml
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\System.Web.Mvc.xml
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\System.Web.Optimization.xml
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\System.Web.Razor.xml
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\System.Web.WebPages.xml
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\System.Web.WebPages.Deployment.xml
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\System.Web.WebPages.Razor.xml
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\Antlr3.Runtime.pdb
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\Newtonsoft.Json.xml
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\System.Net.Http.Formatting.xml
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\System.Web.Http.xml
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\bin\System.Web.Http.WebHost.xml
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\obj\Debug\CMCLient.csprojResolveAssemblyReference.cache
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\obj\Debug\CMCLient.dll
+\\ctstudent2\studentusers\100369891\Desktop\application dev\CMCLient\CMCLient\CMCLient\obj\Debug\CMCLient.pdb
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\roslyn\csc.exe
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\roslyn\Microsoft.CSharp.Core.targets
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\roslyn\System.Collections.Immutable.dll
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\roslyn\System.Reflection.Metadata.dll
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\roslyn\vbc.exe
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\roslyn\VBCSCompiler.exe
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\roslyn\VBCSCompiler.exe.config
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\CMCLient.dll.config
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\CMCLient.dll
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\CMCLient.pdb
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\Antlr3.Runtime.dll
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\Microsoft.Web.Infrastructure.dll
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\Newtonsoft.Json.dll
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Net.Http.Formatting.dll
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Cors.dll
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Helpers.dll
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Http.Cors.dll
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Http.dll
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Http.WebHost.dll
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Mvc.dll
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Optimization.dll
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Razor.dll
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.WebPages.Deployment.dll
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.WebPages.dll
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.WebPages.Razor.dll
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\WebGrease.dll
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Http.Cors.xml
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Helpers.xml
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Mvc.xml
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Optimization.xml
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Razor.xml
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.WebPages.xml
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.WebPages.Deployment.xml
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.WebPages.Razor.xml
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\Antlr3.Runtime.pdb
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\Newtonsoft.Json.xml
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Net.Http.Formatting.xml
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Http.xml
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Http.WebHost.xml
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\obj\Debug\CMCLient.csprojResolveAssemblyReference.cache
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\obj\Debug\CMCLient.dll
+\\ctstudent2\studentusers\100369891\Desktop\Assignment2\CMCLient\CMCLient\CMCLient\obj\Debug\CMCLient.pdb
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\roslyn\csc.exe
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\roslyn\Microsoft.CSharp.Core.targets
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\roslyn\System.Collections.Immutable.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\roslyn\System.Reflection.Metadata.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\roslyn\vbc.exe
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\roslyn\VBCSCompiler.exe
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\roslyn\VBCSCompiler.exe.config
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\CMCLient.dll.config
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\CMCLient.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\CMCLient.pdb
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\Antlr3.Runtime.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\Microsoft.Web.Infrastructure.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\Newtonsoft.Json.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\System.Net.Http.Formatting.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\System.Web.Cors.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\System.Web.Helpers.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\System.Web.Http.Cors.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\System.Web.Http.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\System.Web.Http.WebHost.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\System.Web.Mvc.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\System.Web.Optimization.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\System.Web.Razor.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\System.Web.WebPages.Deployment.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\System.Web.WebPages.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\System.Web.WebPages.Razor.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\WebGrease.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\System.Web.Http.Cors.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\System.Web.Helpers.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\System.Web.Mvc.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\System.Web.Optimization.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\System.Web.Razor.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\System.Web.WebPages.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\System.Web.WebPages.Deployment.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\System.Web.WebPages.Razor.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\Antlr3.Runtime.pdb
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\Newtonsoft.Json.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\System.Net.Http.Formatting.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\System.Web.Http.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\bin\System.Web.Http.WebHost.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\obj\Debug\CMCLient.csprojResolveAssemblyReference.cache
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\obj\Debug\CMCLient.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment\CMCLient\CMCLient\CMCLient\obj\Debug\CMCLient.pdb
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\roslyn\csc.exe
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\roslyn\Microsoft.CSharp.Core.targets
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\roslyn\System.Collections.Immutable.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\roslyn\System.Reflection.Metadata.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\roslyn\vbc.exe
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\roslyn\VBCSCompiler.exe
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\roslyn\VBCSCompiler.exe.config
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\CMCLient.dll.config
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\CMCLient.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\CMCLient.pdb
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\Antlr3.Runtime.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\Microsoft.Web.Infrastructure.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\Newtonsoft.Json.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\System.Net.Http.Formatting.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Cors.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Helpers.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Http.Cors.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Http.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Http.WebHost.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Mvc.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Optimization.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Razor.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\System.Web.WebPages.Deployment.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\System.Web.WebPages.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\System.Web.WebPages.Razor.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\WebGrease.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Http.Cors.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Helpers.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Mvc.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Optimization.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Razor.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\System.Web.WebPages.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\System.Web.WebPages.Deployment.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\System.Web.WebPages.Razor.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\Antlr3.Runtime.pdb
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\Newtonsoft.Json.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\System.Net.Http.Formatting.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Http.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Http.WebHost.xml
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\obj\Debug\CMCLient.csprojResolveAssemblyReference.cache
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\obj\Debug\CMCLient.dll
+\\ctstudent2\studentusers\100369891\Desktop\appDevelopment2\CMCLient\CMCLient\CMCLient\obj\Debug\CMCLient.pdb
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\roslyn\csc.exe
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\roslyn\Microsoft.CSharp.Core.targets
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\roslyn\System.Collections.Immutable.dll
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\roslyn\System.Reflection.Metadata.dll
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\roslyn\vbc.exe
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\roslyn\VBCSCompiler.exe
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\roslyn\VBCSCompiler.exe.config
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\CMCLient.dll.config
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\CMCLient.dll
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\CMCLient.pdb
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\Antlr3.Runtime.dll
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\Microsoft.Web.Infrastructure.dll
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\Newtonsoft.Json.dll
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Net.Http.Formatting.dll
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Cors.dll
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Helpers.dll
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Http.Cors.dll
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Http.dll
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Http.WebHost.dll
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Mvc.dll
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Optimization.dll
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Razor.dll
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.WebPages.Deployment.dll
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.WebPages.dll
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.WebPages.Razor.dll
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\WebGrease.dll
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Http.Cors.xml
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Helpers.xml
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Mvc.xml
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Optimization.xml
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Razor.xml
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.WebPages.xml
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.WebPages.Deployment.xml
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.WebPages.Razor.xml
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\Antlr3.Runtime.pdb
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\Newtonsoft.Json.xml
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Net.Http.Formatting.xml
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Http.xml
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\bin\System.Web.Http.WebHost.xml
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\obj\Debug\CMCLient.csprojResolveAssemblyReference.cache
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\obj\Debug\CMCLient.dll
+\\ctstudent2\studentusers\100369891\Desktop\100369891_Assignment2\CMCLient\CMCLient\CMCLient\obj\Debug\CMCLient.pdb
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\roslyn\csc.exe
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\roslyn\Microsoft.CodeAnalysis.dll
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\roslyn\Microsoft.CSharp.Core.targets
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\roslyn\System.Collections.Immutable.dll
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\roslyn\System.Reflection.Metadata.dll
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\roslyn\vbc.exe
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\roslyn\VBCSCompiler.exe
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\roslyn\VBCSCompiler.exe.config
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\CMCLient.dll.config
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\CMCLient.dll
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\CMCLient.pdb
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\Antlr3.Runtime.dll
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\Microsoft.Web.Infrastructure.dll
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\Newtonsoft.Json.dll
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\System.Net.Http.Formatting.dll
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\System.Web.Cors.dll
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\System.Web.Helpers.dll
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\System.Web.Http.Cors.dll
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\System.Web.Http.dll
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\System.Web.Http.WebHost.dll
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\System.Web.Mvc.dll
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\System.Web.Optimization.dll
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\System.Web.Razor.dll
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\System.Web.WebPages.Deployment.dll
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\System.Web.WebPages.dll
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\System.Web.WebPages.Razor.dll
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\WebGrease.dll
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\System.Web.Http.Cors.xml
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\System.Web.Helpers.xml
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\System.Web.Mvc.xml
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\System.Web.Optimization.xml
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\System.Web.Razor.xml
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\System.Web.WebPages.xml
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\System.Web.WebPages.Deployment.xml
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\System.Web.WebPages.Razor.xml
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\Antlr3.Runtime.pdb
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\Newtonsoft.Json.xml
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\System.Net.Http.Formatting.xml
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\System.Web.Http.xml
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\bin\System.Web.Http.WebHost.xml
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\obj\Debug\CMCLient.csprojResolveAssemblyReference.cache
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\obj\Debug\CMCLient.dll
+K:\100369891_Assignment2\Web Client\CMCLient\CMCLient\obj\Debug\CMCLient.pdb
